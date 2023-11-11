@@ -21,4 +21,4 @@ class ContactController {
   }
 }
 
-module.exports = new ContactController();
+module.exports = { ContactController: new ContactController() };
