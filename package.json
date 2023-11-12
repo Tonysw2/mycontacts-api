@@ -9,7 +9,8 @@
   "author": "Anthony Ribeiro",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
   },
   "devDependencies": {
     "eslint": "^8.53.0",
