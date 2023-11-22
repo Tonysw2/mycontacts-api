@@ -10,6 +10,7 @@
     },
     "rules": {
       "class-methods-use-this": "off",
-      "camelcase": "off"
+      "camelcase": "off",
+      "import/no-extraneous-dependencies": "off"
     }
 }
